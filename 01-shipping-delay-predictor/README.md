@@ -59,7 +59,7 @@ python shipping_delay_predictor.py
 
 ## Future Enhancements
 
-**Deploy as REST API**
-**Real-time predictions integration**
-**Extended features (route complexity, crew experience)**
-**Multi-class classification (delay duration categories)**
+##Deploy as REST API##
+##Real-time predictions integration##
+##Extended features (route complexity, crew experience)##
+##Multi-class classification (delay duration categories)##
